@@ -97,3 +97,4 @@ The analysis reveals a clear pattern:
 
 **Cryss**  
 Operations & Analytics  
+Preventative Scan Case Study — April 2026
